@@ -1,0 +1,14 @@
+.Fruits{
+    color:aquamarine;
+    background-color: yellow;
+    height: 20px;
+    width: 200;
+    border: 1px solid black;
+}
+.Vegetable{
+    color:brown;
+    background-color: cadetblue;
+    height: 20px;
+    width: 200;
+    border: 1px solid blue;
+}
